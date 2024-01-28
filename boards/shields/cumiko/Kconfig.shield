@@ -1,4 +1,4 @@
-config SHIELD_CUMICO_LEFT
+config SHIELD_CUMIKO_LEFT
 	def_bool $(shields_list_contains,cumoko_left)
 
 config SHIELD_CUMIKO_RIGHT

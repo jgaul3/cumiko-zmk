@@ -1,7 +1,7 @@
 if SHIELD_CUMIKO_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Cumico"
+	default "Cumiko"
 
 config ZMK_SPLIT_ROLE_CENTRAL
 	default y
