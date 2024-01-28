@@ -1,0 +1,12 @@
+file_format: "1"
+id: cumiko
+name: Cumiko
+type: shield
+url: https://afraidalot.com
+requires: [seeed_xiao]
+exposes: []
+features:
+  - keys
+siblings:
+  - cumiko_left
+  - cumiko_right
