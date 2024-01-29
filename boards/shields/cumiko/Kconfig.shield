@@ -1,5 +1,5 @@
 config SHIELD_CUMIKO_LEFT
-	def_bool $(shields_list_contains,cumoko_left)
+	def_bool $(shields_list_contains,cumiko_left)
 
 config SHIELD_CUMIKO_RIGHT
-	def_bool $(shields_list_contains,cumoko_right)
+	def_bool $(shields_list_contains,cumiko_right)
